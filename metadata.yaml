@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '39572'
     url: http://www.gutenberg.org/2009/agents/39572
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38607#A-History-of-Oregon-1792-1849Drawn-From-Personal-Observation-and-Authentic-Information
 gutenberg_issued: '2012-01-18'
 gutenberg_type: Text
 identifiers:
